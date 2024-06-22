@@ -6,6 +6,8 @@ git clone https://github.com/EnerGuard/EnerSense2.git
 
 Install backend dependencies:
 cd EnerSense2/server
+
+
 npm install
 
 
